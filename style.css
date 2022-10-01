@@ -28,3 +28,30 @@ header .logo {
 main {
     padding: 20px;
 }
+
+.name-tag {
+    margin-top: 5px;
+    width: 400px;
+    height: 255px;
+    background: rgb(0, 255, 251);
+    color:rgb(0, 0, 0);
+    text-align: center;
+}
+
+h2 {
+    font-size: 4em;
+    color:rgb(255, 255, 255)
+}
+
+.intro {
+    color:white;
+}
+
+.name-display {
+    background: rgb(255, 255, 255);
+    padding: 10px;
+    color: black;
+    font-family: 'Corbel';
+    font-size: 30px;
+
+}
